@@ -4,7 +4,7 @@ Every creature on this planet sees the world differently, either from the percep
  
 
 # Tech Stack
-1) XML, Kotlin, CameraX library, Volley, API, GPU Image Processing
+XML, Kotlin, CameraX library, Volley, API, GPU Image Processing
 
 # Target Audience
 students, Animal lover
