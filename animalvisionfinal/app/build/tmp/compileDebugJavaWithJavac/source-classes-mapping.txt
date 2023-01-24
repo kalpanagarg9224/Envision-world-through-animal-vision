@@ -1,0 +1,32 @@
+animalVision/databinding/FragmentLoginBinding.java
+ animalVision.databinding.FragmentLoginBinding
+animalVision/databinding/FragmentStartBinding.java
+ animalVision.databinding.FragmentStartBinding
+animalVision/databinding/FragmentForgotBinding.java
+ animalVision.databinding.FragmentForgotBinding
+animalVision/databinding/ActivityGalleryBinding.java
+ animalVision.databinding.ActivityGalleryBinding
+animalVision/databinding/ListItemImgBinding.java
+ animalVision.databinding.ListItemImgBinding
+animalVision/databinding/ActivityMainBinding.java
+ animalVision.databinding.ActivityMainBinding
+animalVision/databinding/ActivityDashboardBinding.java
+ animalVision.databinding.ActivityDashboardBinding
+animalVision/databinding/FragmentAboutBinding.java
+ animalVision.databinding.FragmentAboutBinding
+animalVision/databinding/FragmentHomeBinding.java
+ animalVision.databinding.FragmentHomeBinding
+animalVision/databinding/FragmentProfileBinding.java
+ animalVision.databinding.FragmentProfileBinding
+animalVision/databinding/DrawerHeaderBinding.java
+ animalVision.databinding.DrawerHeaderBinding
+animalVision/databinding/FragmentOtpBinding.java
+ animalVision.databinding.FragmentOtpBinding
+animalVision/databinding/ActivitySplashBinding.java
+ animalVision.databinding.ActivitySplashBinding
+animalVision/databinding/ActivityCameraBinding.java
+ animalVision.databinding.ActivityCameraBinding
+animalVision/BuildConfig.java
+ animalVision.BuildConfig
+animalVision/databinding/FragmentSignupBinding.java
+ animalVision.databinding.FragmentSignupBinding
