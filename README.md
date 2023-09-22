@@ -14,7 +14,7 @@ Animal Vision aims to meet the 3 Sustainable Development Goals:
 
 1) SDG 4: Quality Education 
 2) SDG 9: Industrial Innovation 
-3) SDG 12: Responsible Production
+
 
 # Some Screenshots of App
 ![image](https://user-images.githubusercontent.com/85828838/214263004-a7ffd43f-3f60-4d1f-b01b-baff1a211697.png)
